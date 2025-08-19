@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+#offers {
+    padding: 20px;
+}
+
+#luxury-products {
+    background-color: black; /* Black for luxury */
+    color: gold; /* Gold for luxury */
+    padding: 20px;
+}
